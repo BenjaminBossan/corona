@@ -7,8 +7,8 @@ predictions will come true.
 
 Just look at the outputs by opening the notebooks:
 
-* [without mortality](https://nbviewer.jupyter.org/github/BenjaminBossan/corona/blob/master/model_corona_virus.ipynb)
-* [with mortality](https://nbviewer.jupyter.org/github/BenjaminBossan/corona/blob/master/model_corona_virus_with_mortality.ipynb)
+* without mortality: [github](https://github.com/BenjaminBossan/corona/blob/master/model_corona_virus.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/BenjaminBossan/corona/blob/master/model_corona_virus.ipynb)
+* with mortality [github](https://github.com/BenjaminBossan/corona/blob/master/model_corona_virus_with_mortality.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/BenjaminBossan/corona/blob/master/model_corona_virus_with_mortality.ipynb)
 
 ## Running
 
