@@ -30,7 +30,7 @@ start a notebook server:
 ```bash
 # create virtual environment
 pip install -r requirements.txt
-jupter notebook
+jupyter notebook
 ```
 
 Navigate to the notebook server (e.g. `localhost:8888`) and open the
