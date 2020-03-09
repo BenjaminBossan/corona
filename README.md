@@ -12,18 +12,14 @@ Just look at the outputs by opening the notebooks:
 
 ## Running
 
-First you need to clone this repo and the repo containing the data,
-then copy the notebooks to the repo containing the data (you can skip
-the last step but then need to adjust the notebook paths):
+First you need to clone this repo and the repo containing the data:
 
 ```bash
 git clone https://github.com/CSSEGISandData/COVID-19.git
 git clone https://github.com/BenjaminBossan/corona.git
-cp corona/*.ipynb COVID-19/
-cd COVID-19/
 ```
 
-Create a Python3 virtual enviroment with your favorite tool and then
+Inside `corona/`, create a Python3 virtual enviroment with your favorite tool and
 install the requirements from `requirements.txt`, e.g. using pip, and
 start a notebook server:
 
